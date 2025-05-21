@@ -33,7 +33,6 @@
 *.app
 
 /build
-/data/*
 2048
 /.vscode
 .DS_Store
